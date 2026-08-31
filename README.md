@@ -93,3 +93,5 @@ Najważniejsze wnioski z analizy znajdują się w pliku: insights.md
 - SQL
 - GitHub
 
+  **👤Autor: Natalia Śniadek**
+
