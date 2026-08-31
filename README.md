@@ -93,5 +93,5 @@ Najważniejsze wnioski z analizy znajdują się w pliku: insights.md
 - SQL
 - GitHub
 
-  **👤Autor: Natalia Śniadek**
+Note: The dataset is fictional/synthetic and is used solely for portfolio purposes.
 
