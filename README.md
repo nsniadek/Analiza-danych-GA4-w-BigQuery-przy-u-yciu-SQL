@@ -1,0 +1,1 @@
+# Analiza-danych-GA4-w-BigQuery-przy-u-yciu-SQL
